@@ -1,2 +1,2 @@
-# Scorpion_4045
+# https://worldofwarships.eu/en/news/
 news for the discord channel
